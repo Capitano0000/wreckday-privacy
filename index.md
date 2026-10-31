@@ -92,6 +92,8 @@ If you voluntarily contact support, we may receive your email address and the in
 
 Support communications are used to respond to your request and investigate reported problems.
 
+When you prepare a bug report, the Game includes technical information such as the app version and build number, iOS version, device model, current game day, health, hunger, overheating, and selected resource values. This information is displayed in the report and is transmitted only if you choose to send or share it. We use it solely to investigate the reported issue.
+
 ## 9. Changes to This Policy
 
 We may update this Privacy Policy when the Game's features, data practices, or applicable requirements change.
